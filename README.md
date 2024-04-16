@@ -1,4 +1,4 @@
-Activity 1. App Idea Brainstorming
+[capapp.pdf](https://github.com/ErmiyasHailemichael/Capapp/files/14987386/capapp.pdf)Activity 1. App Idea Brainstorming
 ==
 
 **1. Flash card - Education**
@@ -57,4 +57,6 @@ APP EVALUATION CRITERIA
 Step 2.1: The Top Two
 ==
 1.  Flash card - Education
-2.  food app
+   [image][capapp.pdf](https://github.com/ErmiyasHailemichael/Capapp/files/14987389/capapp.pdf)
+
+3.  food app
